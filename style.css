@@ -1,0 +1,85 @@
+/* Sazid Mahmud 2030328 */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+image{
+    margin: 70px ;
+    padding: 25px;
+    background-color: #73a7d8;
+    border: 4px solid grey; 
+    border-radius: 5%;
+}
+/* font decoration */
+p {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #333;
+  }
+ /* font type */
+  h1 {
+    font-family: Georgia, serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #333;
+    text-transform: uppercase;
+  }
+
+  .font{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+  }
+  
+
+   div {
+    margin: 50px ;
+    padding: 25px;
+    background-color: #f0b476;
+    border: 4px solid grey; 
+    border-radius: 5%;
+} 
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    background-color: #333;
+    
+  }
+  
+  li {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 25%;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+  }
+  /* mouse hover  */
+ul li a:hover {
+  color: rgb(85, 85, 85);
+}
+
+footer{
+  background-color: #f0efde;
+  padding: 20px 0px 20px 0px;
+  border-radius: 0px 0px 10px 10px;
+  color: black;
+  margin-top: 20px;
+  font-family: 'Dancing Script', cursive;
+}
